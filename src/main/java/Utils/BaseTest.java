@@ -15,6 +15,7 @@ public class BaseTest {
 		
 		 driver = new FirefoxDriver();
 		 driver.get("https://keybooks.ro");
+		 
 		
 
 	}
